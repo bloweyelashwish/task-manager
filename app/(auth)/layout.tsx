@@ -1,6 +1,6 @@
 import "~/styles/global.css";
 import { Inter } from "@next/font/google";
-import { GlassPane } from "~/components/GlassPane/GlassPane";
+import { GlassPane } from "~/components";
 
 const inter = Inter({
   variable: "--font-inter",

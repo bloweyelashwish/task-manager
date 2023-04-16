@@ -1,6 +1,6 @@
 import clsx from "clsx";
 
-export const Input = ({ className, ...props }: { className: string }) => {
+export const Input = ({ className, ...props }: any) => {
   return (
     <input
       className={clsx(
